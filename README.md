@@ -1,4 +1,4 @@
-# Character Recognition using EMNIST
+# Character Recognition for EMNIST Dataset
 
 This project implements various machine learning and deep learning models for character recognition using the **EMNIST (Extended MNIST)** dataset. The models are trained on the `balanced` split of the EMNIST dataset, which contains 47 different classes of characters (letters and digits).
 
